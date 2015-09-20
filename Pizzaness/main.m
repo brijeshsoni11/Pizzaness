@@ -1,0 +1,18 @@
+//
+//  main.m
+//  Pizzaness
+//
+//  Created by wserve on 5/27/15.
+//  Copyright (c) 2015 Siraj. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+#import "AppDelegate.h"
+
+int main(int argc, char * argv[])
+{
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+    }
+}

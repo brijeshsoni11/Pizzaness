@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="14F27" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Toppings" syncable="YES">
+        <attribute name="coloum" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fullTopping" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="leftHalfTopping" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="noneTopping" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="otherTopping" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rightHalfTopping" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="row" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Toppings" positionX="-63" positionY="-18" width="128" height="150"/>
+    </elements>
+</model>
